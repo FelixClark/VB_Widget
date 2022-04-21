@@ -25,9 +25,24 @@ class VB_WidgetView extends WatchUi.View {
     // Update the view
     function onUpdate(dc as Dc) as Void {
         // Call the parent onUpdate function to redraw the layout
-                dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_BLACK);
+                dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_GREEN);
         dc.clear();
-                    mMessage = "YOU'VE EARNT 4 VB's!";
+            //var info = ActivityMonitor.getInfo();
+            var info = ActivityMonitor.getInfo();
+           	var calories = null;
+            var vbEarnt = -1;
+        
+            if(info != null)
+            {
+                calories = info.calories;
+                if(calories != null)
+                {
+                    vbEarnt = calories/142.0; //142 Calories in a VB
+                }
+            }
+
+
+            mMessage = "YOU'VE EARNT "+ vbEarnt.format("%.1f") + " VB's";
 	        dc.drawText(dc.getWidth()/2, dc.getHeight()/2, Graphics.FONT_TINY, mMessage, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);    
 
         //View.onUpdate(dc);

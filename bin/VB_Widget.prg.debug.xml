@@ -11,46 +11,53 @@
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="26" parent="globals/VB_WidgetView" pc="268437887" symbol="onUpdate"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="28" parent="globals/VB_WidgetView" pc="268437891" symbol="onUpdate"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="29" parent="globals/VB_WidgetView" pc="268437927" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="30" parent="globals/VB_WidgetView" pc="268437939" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="31" parent="globals/VB_WidgetView" pc="268437952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="5" lineNum="39" parent="globals/VB_WidgetView" pc="268438044" symbol="onHide"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="6" lineNum="42" parent="globals/VB_WidgetView" pc="268438049" symbol="dummy"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438881" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438881" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="11" parent="globals/VB_OverviewDelegate" pc="268438054" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="13" parent="globals/VB_OverviewDelegate" pc="268438058" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="14" parent="globals/VB_OverviewDelegate" pc="268438080" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="17" parent="globals/VB_OverviewDelegate" pc="268438091" symbol="onShow"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="23" parent="globals/VB_OverviewDelegate" pc="268438096" symbol="onMenu"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="26" parent="globals/VB_OverviewDelegate" pc="268438100" symbol="onMenu"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="30" parent="globals/VB_OverviewDelegate" pc="268438104" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="33" parent="globals/VB_OverviewDelegate" pc="268438108" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="35" parent="globals/VB_OverviewDelegate" pc="268438172" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="54" parent="globals/VB_OverviewDelegate" pc="268438222" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="58" parent="globals/VB_OverviewDelegate" pc="268438226" symbol="onKey"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268438949" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268438949" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="109" parent="globals/DrawableMenuTitle" pc="268438231" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="110" parent="globals/DrawableMenuTitle" pc="268438235" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="113" parent="globals/DrawableMenuTitle" pc="268438260" symbol="setSelected"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="114" parent="globals/DrawableMenuTitle" pc="268438264" symbol="setSelected"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="118" parent="globals/DrawableMenuTitle" pc="268438275" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="120" parent="globals/DrawableMenuTitle" pc="268438279" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="121" parent="globals/DrawableMenuTitle" pc="268438286" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="122" parent="globals/DrawableMenuTitle" pc="268438323" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="123" parent="globals/DrawableMenuTitle" pc="268438336" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="125" parent="globals/DrawableMenuTitle" pc="268438368" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="126" parent="globals/DrawableMenuTitle" pc="268438396" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="127" parent="globals/DrawableMenuTitle" pc="268438427" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="128" parent="globals/DrawableMenuTitle" pc="268438437" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="130" parent="globals/DrawableMenuTitle" pc="268438456" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="131" parent="globals/DrawableMenuTitle" pc="268438500" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="132" parent="globals/DrawableMenuTitle" pc="268438516" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="134" parent="globals/DrawableMenuTitle" pc="268438528" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="135" parent="globals/DrawableMenuTitle" pc="268438546" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="136" parent="globals/DrawableMenuTitle" pc="268438586" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268438930" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268438930" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="31" parent="globals/VB_WidgetView" pc="268437939" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="32" parent="globals/VB_WidgetView" pc="268437958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="33" parent="globals/VB_WidgetView" pc="268437961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="35" parent="globals/VB_WidgetView" pc="268437968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="37" parent="globals/VB_WidgetView" pc="268437975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="38" parent="globals/VB_WidgetView" pc="268437985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="40" parent="globals/VB_WidgetView" pc="268437992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="45" parent="globals/VB_WidgetView" pc="268438008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="46" parent="globals/VB_WidgetView" pc="268438044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="5" lineNum="54" parent="globals/VB_WidgetView" pc="268438136" symbol="onHide"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="6" lineNum="57" parent="globals/VB_WidgetView" pc="268438141" symbol="dummy"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438973" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438973" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="11" parent="globals/VB_OverviewDelegate" pc="268438146" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="13" parent="globals/VB_OverviewDelegate" pc="268438150" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="14" parent="globals/VB_OverviewDelegate" pc="268438172" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="17" parent="globals/VB_OverviewDelegate" pc="268438183" symbol="onShow"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="23" parent="globals/VB_OverviewDelegate" pc="268438188" symbol="onMenu"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="26" parent="globals/VB_OverviewDelegate" pc="268438192" symbol="onMenu"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="30" parent="globals/VB_OverviewDelegate" pc="268438196" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="33" parent="globals/VB_OverviewDelegate" pc="268438200" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="35" parent="globals/VB_OverviewDelegate" pc="268438264" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="54" parent="globals/VB_OverviewDelegate" pc="268438314" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="58" parent="globals/VB_OverviewDelegate" pc="268438318" symbol="onKey"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439041" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439041" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="109" parent="globals/DrawableMenuTitle" pc="268438323" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="110" parent="globals/DrawableMenuTitle" pc="268438327" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="113" parent="globals/DrawableMenuTitle" pc="268438352" symbol="setSelected"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="114" parent="globals/DrawableMenuTitle" pc="268438356" symbol="setSelected"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="118" parent="globals/DrawableMenuTitle" pc="268438367" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="120" parent="globals/DrawableMenuTitle" pc="268438371" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="121" parent="globals/DrawableMenuTitle" pc="268438378" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="122" parent="globals/DrawableMenuTitle" pc="268438415" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="123" parent="globals/DrawableMenuTitle" pc="268438428" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="125" parent="globals/DrawableMenuTitle" pc="268438460" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="126" parent="globals/DrawableMenuTitle" pc="268438488" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="127" parent="globals/DrawableMenuTitle" pc="268438519" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="128" parent="globals/DrawableMenuTitle" pc="268438529" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="130" parent="globals/DrawableMenuTitle" pc="268438548" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="131" parent="globals/DrawableMenuTitle" pc="268438592" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="132" parent="globals/DrawableMenuTitle" pc="268438608" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="134" parent="globals/DrawableMenuTitle" pc="268438620" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="135" parent="globals/DrawableMenuTitle" pc="268438638" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="136" parent="globals/DrawableMenuTitle" pc="268438678" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439022" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439022" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="20" lineNum="9" parent="globals/VB_GlanceView" pc="268435456" symbol="initialize"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="20" lineNum="11" parent="globals/VB_GlanceView" pc="268435460" symbol="initialize"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="21" lineNum="15" parent="globals/VB_GlanceView" pc="268435479" symbol="onShow"/>
@@ -173,20 +180,20 @@
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="31" parent="globals/VB_WidgetApp" pc="268437691" symbol="getGlanceView"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="36" parent="globals" pc="268438651" symbol="getApp"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="37" parent="globals" pc="268438663" symbol="getApp"/>
-<entry filename="Rez" id="49" lineNum="2" parent="globals/Rez/Drawables" pc="268438924" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="50" lineNum="7" parent="globals/Rez/Fonts" pc="268438926" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="51" lineNum="9" parent="globals/Rez/JsonData" pc="268438928" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="52" lineNum="18" parent="globals/Rez/Layouts" pc="268438680" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="20" parent="globals/Rez/Layouts" pc="268438692" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="21" parent="globals/Rez/Layouts" pc="268438811" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="23" parent="globals/Rez/Layouts" pc="268438863" symbol="MainLayout"/>
-<entry filename="Rez" id="53" lineNum="11" parent="globals/Rez/Layouts" pc="268438927" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="54" lineNum="28" parent="globals/Rez/Menus" pc="268438925" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="55" lineNum="30" parent="globals/Rez/Strings" pc="268438929" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438900" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438900" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="36" parent="globals" pc="268438743" symbol="getApp"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="37" parent="globals" pc="268438755" symbol="getApp"/>
+<entry filename="Rez" id="49" lineNum="2" parent="globals/Rez/Drawables" pc="268439016" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="50" lineNum="7" parent="globals/Rez/Fonts" pc="268439018" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="51" lineNum="9" parent="globals/Rez/JsonData" pc="268439020" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="52" lineNum="18" parent="globals/Rez/Layouts" pc="268438772" symbol="MainLayout"/>
+<entry filename="Rez" id="52" lineNum="20" parent="globals/Rez/Layouts" pc="268438784" symbol="MainLayout"/>
+<entry filename="Rez" id="52" lineNum="21" parent="globals/Rez/Layouts" pc="268438903" symbol="MainLayout"/>
+<entry filename="Rez" id="52" lineNum="23" parent="globals/Rez/Layouts" pc="268438955" symbol="MainLayout"/>
+<entry filename="Rez" id="53" lineNum="11" parent="globals/Rez/Layouts" pc="268439019" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="54" lineNum="28" parent="globals/Rez/Menus" pc="268439017" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="55" lineNum="30" parent="globals/Rez/Strings" pc="268439021" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438992" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438992" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="11" object="true" symbol="VB_OverviewDelegate"/>
@@ -282,21 +289,24 @@
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268437881" name="dc" stackId="1" startPc="268437821"/>
-<entry arg="true" endPc="268438043" name="dc" stackId="1" startPc="268437887"/>
-<entry arg="true" endPc="268438090" name="handler" stackId="1" startPc="268438054"/>
-<entry endPc="268438224" name="menu" stackId="1" startPc="268438108"/>
-<entry arg="true" endPc="268438230" name="keyEvent" stackId="1" startPc="268438226"/>
-<entry arg="true" endPc="268438274" name="isTitleSelected" stackId="1" startPc="268438260"/>
-<entry endPc="268438649" name="bitmapX" stackId="6" startPc="268438279"/>
-<entry endPc="268438649" name="appIcon" stackId="3" startPc="268438279"/>
-<entry endPc="268438649" name="labelY" stackId="9" startPc="268438279"/>
-<entry endPc="268438649" name="labelWidth" stackId="5" startPc="268438279"/>
-<entry endPc="268438649" name="spacing" stackId="2" startPc="268438279"/>
-<entry endPc="268438649" name="labelX" stackId="8" startPc="268438279"/>
-<entry endPc="268438649" name="bitmapWidth" stackId="4" startPc="268438279"/>
-<entry endPc="268438649" name="bkColor" stackId="10" startPc="268438279"/>
-<entry endPc="268438649" name="bitmapY" stackId="7" startPc="268438279"/>
-<entry arg="true" endPc="268438650" name="dc" stackId="1" startPc="268438275"/>
+<entry endPc="268438134" name="vbEarnt" stackId="4" startPc="268437891"/>
+<entry endPc="268438134" name="info" stackId="2" startPc="268437891"/>
+<entry endPc="268438134" name="calories" stackId="3" startPc="268437891"/>
+<entry arg="true" endPc="268438135" name="dc" stackId="1" startPc="268437887"/>
+<entry arg="true" endPc="268438182" name="handler" stackId="1" startPc="268438146"/>
+<entry endPc="268438316" name="menu" stackId="1" startPc="268438200"/>
+<entry arg="true" endPc="268438322" name="keyEvent" stackId="1" startPc="268438318"/>
+<entry arg="true" endPc="268438366" name="isTitleSelected" stackId="1" startPc="268438352"/>
+<entry endPc="268438741" name="bitmapX" stackId="6" startPc="268438371"/>
+<entry endPc="268438741" name="appIcon" stackId="3" startPc="268438371"/>
+<entry endPc="268438741" name="labelY" stackId="9" startPc="268438371"/>
+<entry endPc="268438741" name="labelWidth" stackId="5" startPc="268438371"/>
+<entry endPc="268438741" name="spacing" stackId="2" startPc="268438371"/>
+<entry endPc="268438741" name="labelX" stackId="8" startPc="268438371"/>
+<entry endPc="268438741" name="bitmapWidth" stackId="4" startPc="268438371"/>
+<entry endPc="268438741" name="bkColor" stackId="10" startPc="268438371"/>
+<entry endPc="268438741" name="bitmapY" stackId="7" startPc="268438371"/>
+<entry arg="true" endPc="268438742" name="dc" stackId="1" startPc="268438367"/>
 <entry arg="true" endPc="268435488" name="responseCode" stackId="1" startPc="268435484"/>
 <entry arg="true" endPc="268435488" name="data" stackId="2" startPc="268435484"/>
 <entry endPc="268435700" name="message" stackId="2" startPc="268435493"/>
@@ -351,8 +361,8 @@
 <entry arg="true" endPc="268437529" name="change" stackId="4" startPc="268437455"/>
 <entry arg="true" endPc="268437571" name="state" stackId="1" startPc="268437567"/>
 <entry arg="true" endPc="268437576" name="state" stackId="1" startPc="268437572"/>
-<entry endPc="268438879" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268438692"/>
-<entry arg="true" endPc="268438880" name="dc" stackId="1" startPc="268438680"/>
+<entry endPc="268438971" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268438784"/>
+<entry arg="true" endPc="268438972" name="dc" stackId="1" startPc="268438772"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
@@ -365,16 +375,16 @@
 <dataEntry label="globals/VB_WidgetApp" offset="357" parentId="globals" symbolId="VB_WidgetApp" type="class"/>
 <dataEntry label="globals/VB_GlanceView" offset="444" parentId="globals" symbolId="VB_GlanceView" type="class"/>
 <dataEntry label="globals/StockRecord" offset="515" parentId="globals" symbolId="StockRecord" type="class"/>
-<dataEntry label="globals/VB_WidgetView" offset="1780" parentId="globals" symbolId="VB_WidgetView" type="class"/>
-<dataEntry label="globals/Rez" offset="1883" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="1962" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="2009" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="2040" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="2071" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="2110" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="2141" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/DrawableMenuTitle" offset="2180" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
-<dataEntry label="globals/VB_OverviewDelegate" offset="2251" parentId="globals" symbolId="VB_OverviewDelegate" type="class"/>
+<dataEntry label="globals/VB_WidgetView" offset="1783" parentId="globals" symbolId="VB_WidgetView" type="class"/>
+<dataEntry label="globals/Rez" offset="1886" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1965" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="2012" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="2043" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="2074" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="2113" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="2144" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/DrawableMenuTitle" offset="2183" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry label="globals/VB_OverviewDelegate" offset="2254" parentId="globals" symbolId="VB_OverviewDelegate" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268437820" name="initialize" parent="VB_WidgetView" startPc="268437798">
@@ -387,51 +397,51 @@
 <functionEntry accessMode="public" endPc="268437886" name="onShow" parent="VB_WidgetView" startPc="268437882">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438043" name="onUpdate" parent="VB_WidgetView" startPc="268437887">
+<functionEntry accessMode="public" endPc="268438135" name="onUpdate" parent="VB_WidgetView" startPc="268437887">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438048" name="onHide" parent="VB_WidgetView" startPc="268438044">
+<functionEntry accessMode="public" endPc="268438140" name="onHide" parent="VB_WidgetView" startPc="268438136">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438053" name="dummy" parent="VB_WidgetView" startPc="268438049">
+<functionEntry accessMode="public" endPc="268438145" name="dummy" parent="VB_WidgetView" startPc="268438141">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438899" name="&lt;init&gt;" parent="VB_WidgetView" startPc="268438881">
+<functionEntry accessMode="protected" endPc="268438991" name="&lt;init&gt;" parent="VB_WidgetView" startPc="268438973">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438090" name="initialize" parent="VB_OverviewDelegate" startPc="268438054">
+<functionEntry accessMode="public" endPc="268438182" name="initialize" parent="VB_OverviewDelegate" startPc="268438146">
 <param id="handler"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438095" name="onShow" parent="VB_OverviewDelegate" startPc="268438091">
+<functionEntry accessMode="public" endPc="268438187" name="onShow" parent="VB_OverviewDelegate" startPc="268438183">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438103" name="onMenu" parent="VB_OverviewDelegate" startPc="268438096">
+<functionEntry accessMode="public" endPc="268438195" name="onMenu" parent="VB_OverviewDelegate" startPc="268438188">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438225" name="onSelect" parent="VB_OverviewDelegate" startPc="268438104">
+<functionEntry accessMode="public" endPc="268438317" name="onSelect" parent="VB_OverviewDelegate" startPc="268438196">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438230" name="onKey" parent="VB_OverviewDelegate" startPc="268438226">
+<functionEntry accessMode="public" endPc="268438322" name="onKey" parent="VB_OverviewDelegate" startPc="268438318">
 <param id="keyEvent"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438967" name="&lt;init&gt;" parent="VB_OverviewDelegate" startPc="268438949">
+<functionEntry accessMode="protected" endPc="268439059" name="&lt;init&gt;" parent="VB_OverviewDelegate" startPc="268439041">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438259" name="initialize" parent="DrawableMenuTitle" startPc="268438231">
+<functionEntry accessMode="public" endPc="268438351" name="initialize" parent="DrawableMenuTitle" startPc="268438323">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438274" name="setSelected" parent="DrawableMenuTitle" startPc="268438260">
+<functionEntry accessMode="public" endPc="268438366" name="setSelected" parent="DrawableMenuTitle" startPc="268438352">
 <param id="isTitleSelected"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438650" name="draw" parent="DrawableMenuTitle" startPc="268438275">
+<functionEntry accessMode="public" endPc="268438742" name="draw" parent="DrawableMenuTitle" startPc="268438367">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438948" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268438930">
+<functionEntry accessMode="protected" endPc="268439040" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268439022">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="VB_GlanceView" startPc="268435456">
@@ -525,32 +535,32 @@
 <functionEntry accessMode="protected" endPc="268437777" name="&lt;init&gt;" parent="VB_WidgetApp" startPc="268437759">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438679" name="getApp" startPc="268438651">
+<functionEntry accessMode="public" endPc="268438771" name="getApp" startPc="268438743">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438924" name="&lt;init&gt;" parent="Drawables" startPc="268438924">
+<functionEntry accessMode="protected" endPc="268439016" name="&lt;init&gt;" parent="Drawables" startPc="268439016">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438926" name="&lt;init&gt;" parent="Fonts" startPc="268438926">
+<functionEntry accessMode="protected" endPc="268439018" name="&lt;init&gt;" parent="Fonts" startPc="268439018">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438928" name="&lt;init&gt;" parent="JsonData" startPc="268438928">
+<functionEntry accessMode="protected" endPc="268439020" name="&lt;init&gt;" parent="JsonData" startPc="268439020">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438880" name="MainLayout" parent="Layouts" startPc="268438680">
+<functionEntry accessMode="public" endPc="268438972" name="MainLayout" parent="Layouts" startPc="268438772">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438927" name="&lt;init&gt;" parent="Layouts" startPc="268438927">
+<functionEntry accessMode="protected" endPc="268439019" name="&lt;init&gt;" parent="Layouts" startPc="268439019">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438925" name="&lt;init&gt;" parent="Menus" startPc="268438925">
+<functionEntry accessMode="protected" endPc="268439017" name="&lt;init&gt;" parent="Menus" startPc="268439017">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438929" name="&lt;init&gt;" parent="Strings" startPc="268438929">
+<functionEntry accessMode="protected" endPc="268439021" name="&lt;init&gt;" parent="Strings" startPc="268439021">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438923" name="&lt;init&gt;" parent="Rez" startPc="268438900">
+<functionEntry accessMode="protected" endPc="268439015" name="&lt;init&gt;" parent="Rez" startPc="268438992">
 <documentation/>
 </functionEntry>
 </functions>
