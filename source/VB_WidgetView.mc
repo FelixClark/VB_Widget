@@ -28,8 +28,8 @@ class VB_WidgetView extends WatchUi.View {
                 dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_GREEN);
         dc.clear();
             //var info = ActivityMonitor.getInfo();
-            var info = ActivityMonitor.getInfo();
-           	var calories = null;
+           	var info = Activity.getActivityInfo();
+            var calories = null;
             var vbEarnt = -1;
         
             if(info != null)
@@ -42,10 +42,52 @@ class VB_WidgetView extends WatchUi.View {
             }
 
 
+ 
+
+        var spacing = 4;
+        var appIcon = WatchUi.loadResource(Rez.Drawables.VB_Stubbie);
+        var bitmapWidth = appIcon.getWidth();
+        var bitmapHeight = appIcon.getHeight();
+        
+        //var bitmapX = (dc.getWidth() - (bitmapWidth + spacing)) / 2;
+        //var bitmapY = (dc.getHeight() - appIcon.getHeight()) / (3);
+        //var bitmapY = (dc.getHeight() * 2)/3;
+        //dc.drawBitmap(bitmapX, bitmapY, appIcon);
+        //vbEarnt=10;
+        var temp = 0;
+        for (var i = 0; i < vbEarnt.toLong(); i++) 
+        {
+           //var x = random(bitmapWidth,dc.getWidth()-bitmapWidth);
+           //var y = random(bitmapHeight,dc.getHeight()-bitmapHeight);
+           var x = 40 + i*(bitmapWidth+spacing);
+           var y = 0;
+           if(x < dc.getWidth()-bitmapWidth-30)
+           {
+               y = (dc.getHeight()*1)/3 - 40;
+               temp = i;
+           }
+           else
+           {
+               x = 40 + (i-temp-1)*(bitmapWidth+spacing);            
+               y = (dc.getHeight()*2)/3 - 20;
+           }
+
+           dc.drawBitmap(x, y, appIcon);
+        }       
+        
             mMessage = "YOU'VE EARNT "+ vbEarnt.format("%.1f") + " VB's";
-	        dc.drawText(dc.getWidth()/2, dc.getHeight()/2, Graphics.FONT_TINY, mMessage, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);    
+	        dc.drawText(dc.getWidth()/2, dc.getHeight()/2, Graphics.FONT_TINY, mMessage, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);   
 
         //View.onUpdate(dc);
+    }
+
+    const RAND_MAX = 0x7FFFFFF;
+
+    // return a random value on the range [n, m]
+    function random(n, m) 
+    {
+    //return m + Math.rand() / (RAND_MAX / (n - m + 1) + 1);
+        return (Math.rand() % m + n);
     }
 
     // Called when this View is removed from the screen. Save the

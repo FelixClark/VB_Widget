@@ -18,182 +18,198 @@
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="37" parent="globals/VB_WidgetView" pc="268437975" symbol="onUpdate"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="38" parent="globals/VB_WidgetView" pc="268437985" symbol="onUpdate"/>
 <entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="40" parent="globals/VB_WidgetView" pc="268437992" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="45" parent="globals/VB_WidgetView" pc="268438008" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="46" parent="globals/VB_WidgetView" pc="268438044" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="5" lineNum="54" parent="globals/VB_WidgetView" pc="268438136" symbol="onHide"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="6" lineNum="57" parent="globals/VB_WidgetView" pc="268438141" symbol="dummy"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438973" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="4" parent="globals/VB_WidgetView" pc="268438973" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="11" parent="globals/VB_OverviewDelegate" pc="268438146" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="13" parent="globals/VB_OverviewDelegate" pc="268438150" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="9" lineNum="14" parent="globals/VB_OverviewDelegate" pc="268438172" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="17" parent="globals/VB_OverviewDelegate" pc="268438183" symbol="onShow"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="23" parent="globals/VB_OverviewDelegate" pc="268438188" symbol="onMenu"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="26" parent="globals/VB_OverviewDelegate" pc="268438192" symbol="onMenu"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="30" parent="globals/VB_OverviewDelegate" pc="268438196" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="33" parent="globals/VB_OverviewDelegate" pc="268438200" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="35" parent="globals/VB_OverviewDelegate" pc="268438264" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="54" parent="globals/VB_OverviewDelegate" pc="268438314" symbol="onSelect"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="58" parent="globals/VB_OverviewDelegate" pc="268438318" symbol="onKey"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439041" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439041" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="109" parent="globals/DrawableMenuTitle" pc="268438323" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="110" parent="globals/DrawableMenuTitle" pc="268438327" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="113" parent="globals/DrawableMenuTitle" pc="268438352" symbol="setSelected"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="114" parent="globals/DrawableMenuTitle" pc="268438356" symbol="setSelected"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="118" parent="globals/DrawableMenuTitle" pc="268438367" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="120" parent="globals/DrawableMenuTitle" pc="268438371" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="121" parent="globals/DrawableMenuTitle" pc="268438378" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="122" parent="globals/DrawableMenuTitle" pc="268438415" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="123" parent="globals/DrawableMenuTitle" pc="268438428" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="125" parent="globals/DrawableMenuTitle" pc="268438460" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="126" parent="globals/DrawableMenuTitle" pc="268438488" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="127" parent="globals/DrawableMenuTitle" pc="268438519" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="128" parent="globals/DrawableMenuTitle" pc="268438529" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="130" parent="globals/DrawableMenuTitle" pc="268438548" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="131" parent="globals/DrawableMenuTitle" pc="268438592" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="132" parent="globals/DrawableMenuTitle" pc="268438608" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="134" parent="globals/DrawableMenuTitle" pc="268438620" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="135" parent="globals/DrawableMenuTitle" pc="268438638" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="136" parent="globals/DrawableMenuTitle" pc="268438678" symbol="draw"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439022" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439022" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="20" lineNum="9" parent="globals/VB_GlanceView" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="20" lineNum="11" parent="globals/VB_GlanceView" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="21" lineNum="15" parent="globals/VB_GlanceView" pc="268435479" symbol="onShow"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="22" lineNum="28" parent="globals/VB_GlanceView" pc="268435484" symbol="newDataAvailable"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="51" parent="globals/VB_GlanceView" pc="268435489" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="53" parent="globals/VB_GlanceView" pc="268435493" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="54" parent="globals/VB_GlanceView" pc="268435500" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="55" parent="globals/VB_GlanceView" pc="268435507" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="56" parent="globals/VB_GlanceView" pc="268435543" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="57" parent="globals/VB_GlanceView" pc="268435622" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="7" parent="globals/VB_GlanceView" pc="268437778" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="7" parent="globals/VB_GlanceView" pc="268437778" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="17" parent="globals/StockData" pc="268435702" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="19" parent="globals/StockData" pc="268435714" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="21" parent="globals/StockData" pc="268435738" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="22" parent="globals/StockData" pc="268435745" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="24" parent="globals/StockData" pc="268435763" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="25" parent="globals/StockData" pc="268435773" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="26" parent="globals/StockData" pc="268435808" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="27" parent="globals/StockData" pc="268435841" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="28" parent="globals/StockData" pc="268435874" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="29" parent="globals/StockData" pc="268435907" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="30" parent="globals/StockData" pc="268435940" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="31" parent="globals/StockData" pc="268435973" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="33" parent="globals/StockData" pc="268435983" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="34" parent="globals/StockData" pc="268436021" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="35" parent="globals/StockData" pc="268436034" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="26" lineNum="38" parent="globals/StockData" pc="268436063" symbol="parseJSONData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="42" parent="globals/StockData" pc="268436074" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="44" parent="globals/StockData" pc="268436086" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="45" parent="globals/StockData" pc="268436094" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="46" parent="globals/StockData" pc="268436107" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="47" parent="globals/StockData" pc="268436120" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="49" parent="globals/StockData" pc="268436127" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="51" parent="globals/StockData" pc="268436138" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="52" parent="globals/StockData" pc="268436153" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="53" parent="globals/StockData" pc="268436169" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="54" parent="globals/StockData" pc="268436189" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="55" parent="globals/StockData" pc="268436205" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="57" parent="globals/StockData" pc="268436215" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="58" parent="globals/StockData" pc="268436235" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="60" parent="globals/StockData" pc="268436248" symbol="splitCSVStringToArray"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="63" parent="globals/StockData" pc="268436261" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="65" parent="globals/StockData" pc="268436273" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="67" parent="globals/StockData" pc="268436280" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="68" parent="globals/StockData" pc="268436311" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="69" parent="globals/StockData" pc="268436331" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="70" parent="globals/StockData" pc="268436341" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="71" parent="globals/StockData" pc="268436348" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="73" parent="globals/StockData" pc="268436372" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="74" parent="globals/StockData" pc="268436382" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="76" parent="globals/StockData" pc="268436405" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="80" parent="globals/StockData" pc="268436431" symbol="getRequestURL"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="83" parent="globals/StockData" pc="268436459" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="85" parent="globals/StockData" pc="268436471" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="86" parent="globals/StockData" pc="268436481" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="87" parent="globals/StockData" pc="268436495" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="91" parent="globals/StockData" pc="268436503" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="97" parent="globals/StockData" pc="268436565" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="99" parent="globals/StockData" pc="268436578" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="101" parent="globals/StockData" pc="268436602" symbol="requestDataFromServer"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="104" parent="globals/StockData" pc="268436627" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="106" parent="globals/StockData" pc="268436639" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="108" parent="globals/StockData" pc="268436667" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="110" parent="globals/StockData" pc="268436691" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="114" parent="globals/StockData" pc="268436697" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="115" parent="globals/StockData" pc="268436723" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="117" parent="globals/StockData" pc="268436739" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="119" parent="globals/StockData" pc="268436753" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="120" parent="globals/StockData" pc="268436798" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="124" parent="globals/StockData" pc="268436804" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="127" parent="globals/StockData" pc="268436849" symbol="isDataStale"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="130" parent="globals/StockData" pc="268436853" symbol="restoreCachedData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="132" parent="globals/StockData" pc="268436865" symbol="restoreCachedData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="133" parent="globals/StockData" pc="268436886" symbol="restoreCachedData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="134" parent="globals/StockData" pc="268436914" symbol="restoreCachedData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="136" parent="globals/StockData" pc="268436921" symbol="restoreCachedData"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="140" parent="globals/StockData" pc="268436939" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="142" parent="globals/StockData" pc="268436951" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="143" parent="globals/StockData" pc="268436972" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="144" parent="globals/StockData" pc="268436998" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="145" parent="globals/StockData" pc="268437027" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="146" parent="globals/StockData" pc="268437056" symbol="setDataFromWebRequest"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="150" parent="globals/StockData" pc="268437071" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="152" parent="globals/StockData" pc="268437083" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="154" parent="globals/StockData" pc="268437113" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="156" parent="globals/StockData" pc="268437145" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="158" parent="globals/StockData" pc="268437174" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="162" parent="globals/StockData" pc="268437207" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="166" parent="globals/StockData" pc="268437256" symbol="getNextStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="169" parent="globals/StockData" pc="268437260" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="171" parent="globals/StockData" pc="268437272" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="173" parent="globals/StockData" pc="268437308" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="175" parent="globals/StockData" pc="268437340" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="177" parent="globals/StockData" pc="268437351" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="181" parent="globals/StockData" pc="268437402" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="185" parent="globals/StockData" pc="268437451" symbol="getPreviousStockCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="10" parent="globals/StockData" pc="268437730" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="11" parent="globals/StockData" pc="268437744" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="8" parent="globals/StockData" pc="268437730" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="14" parent="globals/StockRecord" pc="268437455" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="16" parent="globals/StockRecord" pc="268437459" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="17" parent="globals/StockRecord" pc="268437469" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="18" parent="globals/StockRecord" pc="268437479" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="19" parent="globals/StockRecord" pc="268437489" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="20" parent="globals/StockRecord" pc="268437499" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="21" parent="globals/StockRecord" pc="268437509" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="37" lineNum="22" parent="globals/StockRecord" pc="268437519" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="26" parent="globals/StockRecord" pc="268437530" symbol="hashCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="28" parent="globals/StockRecord" pc="268437534" symbol="hashCode"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="39" lineNum="4" parent="globals/StockRecord" pc="268437797" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="41" lineNum="8" parent="globals/VB_WidgetApp" pc="268437544" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="41" lineNum="10" parent="globals/VB_WidgetApp" pc="268437548" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="42" lineNum="14" parent="globals/VB_WidgetApp" pc="268437567" symbol="onStart"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="43" lineNum="18" parent="globals/VB_WidgetApp" pc="268437572" symbol="onStop"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="44" lineNum="22" parent="globals/VB_WidgetApp" pc="268437577" symbol="getInitialView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="44" lineNum="24" parent="globals/VB_WidgetApp" pc="268437581" symbol="getInitialView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="44" lineNum="25" parent="globals/VB_WidgetApp" pc="268437611" symbol="getInitialView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="29" parent="globals/VB_WidgetApp" pc="268437687" symbol="getGlanceView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="31" parent="globals/VB_WidgetApp" pc="268437691" symbol="getGlanceView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="36" parent="globals" pc="268438743" symbol="getApp"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="37" parent="globals" pc="268438755" symbol="getApp"/>
-<entry filename="Rez" id="49" lineNum="2" parent="globals/Rez/Drawables" pc="268439016" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="50" lineNum="7" parent="globals/Rez/Fonts" pc="268439018" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="51" lineNum="9" parent="globals/Rez/JsonData" pc="268439020" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="52" lineNum="18" parent="globals/Rez/Layouts" pc="268438772" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="20" parent="globals/Rez/Layouts" pc="268438784" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="21" parent="globals/Rez/Layouts" pc="268438903" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="23" parent="globals/Rez/Layouts" pc="268438955" symbol="MainLayout"/>
-<entry filename="Rez" id="53" lineNum="11" parent="globals/Rez/Layouts" pc="268439019" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="54" lineNum="28" parent="globals/Rez/Menus" pc="268439017" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="55" lineNum="30" parent="globals/Rez/Strings" pc="268439021" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438992" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="1" parent="globals/Rez" pc="268438992" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="47" parent="globals/VB_WidgetView" pc="268438008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="48" parent="globals/VB_WidgetView" pc="268438015" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="49" parent="globals/VB_WidgetView" pc="268438052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="50" parent="globals/VB_WidgetView" pc="268438065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="57" parent="globals/VB_WidgetView" pc="268438078" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="58" parent="globals/VB_WidgetView" pc="268438085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="62" parent="globals/VB_WidgetView" pc="268438109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="63" parent="globals/VB_WidgetView" pc="268438125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="64" parent="globals/VB_WidgetView" pc="268438132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="66" parent="globals/VB_WidgetView" pc="268438158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="67" parent="globals/VB_WidgetView" pc="268438189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="71" parent="globals/VB_WidgetView" pc="268438196" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="72" parent="globals/VB_WidgetView" pc="268438221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="75" parent="globals/VB_WidgetView" pc="268438252" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="78" parent="globals/VB_WidgetView" pc="268438283" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="4" lineNum="79" parent="globals/VB_WidgetView" pc="268438319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="5" lineNum="87" parent="globals/VB_WidgetView" pc="268438411" symbol="random"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="5" lineNum="90" parent="globals/VB_WidgetView" pc="268438415" symbol="random"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="6" lineNum="96" parent="globals/VB_WidgetView" pc="268438440" symbol="onHide"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="7" lineNum="99" parent="globals/VB_WidgetView" pc="268438445" symbol="dummy"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="8" lineNum="4" parent="globals/VB_WidgetView" pc="268439277" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetView.mc" id="8" lineNum="4" parent="globals/VB_WidgetView" pc="268439277" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="11" parent="globals/VB_OverviewDelegate" pc="268438450" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="13" parent="globals/VB_OverviewDelegate" pc="268438454" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="10" lineNum="14" parent="globals/VB_OverviewDelegate" pc="268438476" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="11" lineNum="17" parent="globals/VB_OverviewDelegate" pc="268438487" symbol="onShow"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="23" parent="globals/VB_OverviewDelegate" pc="268438492" symbol="onMenu"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="12" lineNum="26" parent="globals/VB_OverviewDelegate" pc="268438496" symbol="onMenu"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="30" parent="globals/VB_OverviewDelegate" pc="268438500" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="33" parent="globals/VB_OverviewDelegate" pc="268438504" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="35" parent="globals/VB_OverviewDelegate" pc="268438568" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="13" lineNum="54" parent="globals/VB_OverviewDelegate" pc="268438618" symbol="onSelect"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="14" lineNum="58" parent="globals/VB_OverviewDelegate" pc="268438622" symbol="onKey"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439345" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="15" lineNum="6" parent="globals/VB_OverviewDelegate" pc="268439345" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="109" parent="globals/DrawableMenuTitle" pc="268438627" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="16" lineNum="110" parent="globals/DrawableMenuTitle" pc="268438631" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="113" parent="globals/DrawableMenuTitle" pc="268438656" symbol="setSelected"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="17" lineNum="114" parent="globals/DrawableMenuTitle" pc="268438660" symbol="setSelected"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="118" parent="globals/DrawableMenuTitle" pc="268438671" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="120" parent="globals/DrawableMenuTitle" pc="268438675" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="121" parent="globals/DrawableMenuTitle" pc="268438682" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="122" parent="globals/DrawableMenuTitle" pc="268438719" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="123" parent="globals/DrawableMenuTitle" pc="268438732" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="125" parent="globals/DrawableMenuTitle" pc="268438764" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="126" parent="globals/DrawableMenuTitle" pc="268438792" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="127" parent="globals/DrawableMenuTitle" pc="268438823" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="128" parent="globals/DrawableMenuTitle" pc="268438833" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="130" parent="globals/DrawableMenuTitle" pc="268438852" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="131" parent="globals/DrawableMenuTitle" pc="268438896" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="132" parent="globals/DrawableMenuTitle" pc="268438912" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="134" parent="globals/DrawableMenuTitle" pc="268438924" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="135" parent="globals/DrawableMenuTitle" pc="268438942" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="18" lineNum="136" parent="globals/DrawableMenuTitle" pc="268438982" symbol="draw"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="19" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439326" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_OverviewDelegate.mc" id="19" lineNum="105" parent="globals/DrawableMenuTitle" pc="268439326" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="21" lineNum="9" parent="globals/VB_GlanceView" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="21" lineNum="11" parent="globals/VB_GlanceView" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="22" lineNum="15" parent="globals/VB_GlanceView" pc="268435479" symbol="onShow"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="23" lineNum="28" parent="globals/VB_GlanceView" pc="268435484" symbol="newDataAvailable"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="51" parent="globals/VB_GlanceView" pc="268435489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="53" parent="globals/VB_GlanceView" pc="268435493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="54" parent="globals/VB_GlanceView" pc="268435500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="55" parent="globals/VB_GlanceView" pc="268435507" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="56" parent="globals/VB_GlanceView" pc="268435543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="24" lineNum="57" parent="globals/VB_GlanceView" pc="268435622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="25" lineNum="7" parent="globals/VB_GlanceView" pc="268437778" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_GlanceView.mc" id="25" lineNum="7" parent="globals/VB_GlanceView" pc="268437778" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="17" parent="globals/StockData" pc="268435702" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="19" parent="globals/StockData" pc="268435714" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="21" parent="globals/StockData" pc="268435738" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="22" parent="globals/StockData" pc="268435745" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="24" parent="globals/StockData" pc="268435763" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="25" parent="globals/StockData" pc="268435773" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="26" parent="globals/StockData" pc="268435808" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="27" parent="globals/StockData" pc="268435841" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="28" parent="globals/StockData" pc="268435874" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="29" parent="globals/StockData" pc="268435907" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="30" parent="globals/StockData" pc="268435940" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="31" parent="globals/StockData" pc="268435973" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="33" parent="globals/StockData" pc="268435983" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="34" parent="globals/StockData" pc="268436021" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="35" parent="globals/StockData" pc="268436034" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="27" lineNum="38" parent="globals/StockData" pc="268436063" symbol="parseJSONData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="42" parent="globals/StockData" pc="268436074" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="44" parent="globals/StockData" pc="268436086" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="45" parent="globals/StockData" pc="268436094" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="46" parent="globals/StockData" pc="268436107" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="47" parent="globals/StockData" pc="268436120" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="49" parent="globals/StockData" pc="268436127" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="51" parent="globals/StockData" pc="268436138" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="52" parent="globals/StockData" pc="268436153" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="53" parent="globals/StockData" pc="268436169" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="54" parent="globals/StockData" pc="268436189" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="55" parent="globals/StockData" pc="268436205" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="57" parent="globals/StockData" pc="268436215" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="58" parent="globals/StockData" pc="268436235" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="28" lineNum="60" parent="globals/StockData" pc="268436248" symbol="splitCSVStringToArray"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="63" parent="globals/StockData" pc="268436261" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="65" parent="globals/StockData" pc="268436273" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="67" parent="globals/StockData" pc="268436280" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="68" parent="globals/StockData" pc="268436311" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="69" parent="globals/StockData" pc="268436331" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="70" parent="globals/StockData" pc="268436341" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="71" parent="globals/StockData" pc="268436348" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="73" parent="globals/StockData" pc="268436372" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="74" parent="globals/StockData" pc="268436382" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="76" parent="globals/StockData" pc="268436405" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="29" lineNum="80" parent="globals/StockData" pc="268436431" symbol="getRequestURL"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="83" parent="globals/StockData" pc="268436459" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="85" parent="globals/StockData" pc="268436471" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="86" parent="globals/StockData" pc="268436481" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="87" parent="globals/StockData" pc="268436495" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="91" parent="globals/StockData" pc="268436503" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="97" parent="globals/StockData" pc="268436565" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="99" parent="globals/StockData" pc="268436578" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="30" lineNum="101" parent="globals/StockData" pc="268436602" symbol="requestDataFromServer"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="104" parent="globals/StockData" pc="268436627" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="106" parent="globals/StockData" pc="268436639" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="108" parent="globals/StockData" pc="268436667" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="110" parent="globals/StockData" pc="268436691" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="114" parent="globals/StockData" pc="268436697" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="115" parent="globals/StockData" pc="268436723" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="117" parent="globals/StockData" pc="268436739" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="119" parent="globals/StockData" pc="268436753" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="120" parent="globals/StockData" pc="268436798" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="124" parent="globals/StockData" pc="268436804" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="31" lineNum="127" parent="globals/StockData" pc="268436849" symbol="isDataStale"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="130" parent="globals/StockData" pc="268436853" symbol="restoreCachedData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="132" parent="globals/StockData" pc="268436865" symbol="restoreCachedData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="133" parent="globals/StockData" pc="268436886" symbol="restoreCachedData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="134" parent="globals/StockData" pc="268436914" symbol="restoreCachedData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="32" lineNum="136" parent="globals/StockData" pc="268436921" symbol="restoreCachedData"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="140" parent="globals/StockData" pc="268436939" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="142" parent="globals/StockData" pc="268436951" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="143" parent="globals/StockData" pc="268436972" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="144" parent="globals/StockData" pc="268436998" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="145" parent="globals/StockData" pc="268437027" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="33" lineNum="146" parent="globals/StockData" pc="268437056" symbol="setDataFromWebRequest"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="150" parent="globals/StockData" pc="268437071" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="152" parent="globals/StockData" pc="268437083" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="154" parent="globals/StockData" pc="268437113" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="156" parent="globals/StockData" pc="268437145" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="158" parent="globals/StockData" pc="268437174" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="162" parent="globals/StockData" pc="268437207" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="34" lineNum="166" parent="globals/StockData" pc="268437256" symbol="getNextStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="169" parent="globals/StockData" pc="268437260" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="171" parent="globals/StockData" pc="268437272" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="173" parent="globals/StockData" pc="268437308" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="175" parent="globals/StockData" pc="268437340" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="177" parent="globals/StockData" pc="268437351" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="181" parent="globals/StockData" pc="268437402" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="35" lineNum="185" parent="globals/StockData" pc="268437451" symbol="getPreviousStockCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="36" lineNum="10" parent="globals/StockData" pc="268437730" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="36" lineNum="11" parent="globals/StockData" pc="268437744" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockData.mc" id="36" lineNum="8" parent="globals/StockData" pc="268437730" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="14" parent="globals/StockRecord" pc="268437455" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="16" parent="globals/StockRecord" pc="268437459" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="17" parent="globals/StockRecord" pc="268437469" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="18" parent="globals/StockRecord" pc="268437479" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="19" parent="globals/StockRecord" pc="268437489" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="20" parent="globals/StockRecord" pc="268437499" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="21" parent="globals/StockRecord" pc="268437509" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="38" lineNum="22" parent="globals/StockRecord" pc="268437519" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="39" lineNum="26" parent="globals/StockRecord" pc="268437530" symbol="hashCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="39" lineNum="28" parent="globals/StockRecord" pc="268437534" symbol="hashCode"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\StockRecord.mc" id="40" lineNum="4" parent="globals/StockRecord" pc="268437797" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="42" lineNum="8" parent="globals/VB_WidgetApp" pc="268437544" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="42" lineNum="10" parent="globals/VB_WidgetApp" pc="268437548" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="43" lineNum="14" parent="globals/VB_WidgetApp" pc="268437567" symbol="onStart"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="44" lineNum="18" parent="globals/VB_WidgetApp" pc="268437572" symbol="onStop"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="22" parent="globals/VB_WidgetApp" pc="268437577" symbol="getInitialView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="24" parent="globals/VB_WidgetApp" pc="268437581" symbol="getInitialView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="45" lineNum="25" parent="globals/VB_WidgetApp" pc="268437611" symbol="getInitialView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="29" parent="globals/VB_WidgetApp" pc="268437687" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="46" lineNum="31" parent="globals/VB_WidgetApp" pc="268437691" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="47" lineNum="5" parent="globals/VB_WidgetApp" pc="268437759" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="48" lineNum="36" parent="globals" pc="268439047" symbol="getApp"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\VB_Widget\\source\\VB_WidgetApp.mc" id="48" lineNum="37" parent="globals" pc="268439059" symbol="getApp"/>
+<entry filename="Rez" id="50" lineNum="2" parent="globals/Rez/Drawables" pc="268439320" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="51" lineNum="8" parent="globals/Rez/Fonts" pc="268439322" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="52" lineNum="10" parent="globals/Rez/JsonData" pc="268439324" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="53" lineNum="19" parent="globals/Rez/Layouts" pc="268439076" symbol="MainLayout"/>
+<entry filename="Rez" id="53" lineNum="21" parent="globals/Rez/Layouts" pc="268439088" symbol="MainLayout"/>
+<entry filename="Rez" id="53" lineNum="22" parent="globals/Rez/Layouts" pc="268439207" symbol="MainLayout"/>
+<entry filename="Rez" id="53" lineNum="24" parent="globals/Rez/Layouts" pc="268439259" symbol="MainLayout"/>
+<entry filename="Rez" id="54" lineNum="12" parent="globals/Rez/Layouts" pc="268439323" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="55" lineNum="29" parent="globals/Rez/Menus" pc="268439321" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="31" parent="globals/Rez/Strings" pc="268439325" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="57" lineNum="1" parent="globals/Rez" pc="268439296" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="57" lineNum="1" parent="globals/Rez" pc="268439296" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="11" object="true" symbol="VB_OverviewDelegate"/>
@@ -204,18 +220,19 @@
 <entry id="5" module="true" symbol="globals/Rez/Menus"/>
 <entry id="33" method="true" symbol="newDataAvailable"/>
 <entry field="true" id="36" symbol="ChangePercent"/>
-<entry id="47" method="true" symbol="MainLayout"/>
+<entry id="50" method="true" symbol="MainLayout"/>
 <entry field="true" id="22" symbol="requestPending"/>
 <entry field="true" id="19" symbol="lastUpdateTime"/>
-<entry field="true" id="49" symbol="mIsTitleSelected"/>
+<entry field="true" id="52" symbol="mIsTitleSelected"/>
 <entry id="31" method="true" symbol="getPreviousStockCode"/>
 <entry field="true" id="34" symbol="Code"/>
+<entry field="true" id="42" symbol="RAND_MAX"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry field="true" id="32" symbol="mView"/>
 <entry id="10" object="true" symbol="VB_WidgetView"/>
-<entry field="true" id="48" symbol="AppName"/>
+<entry field="true" id="51" symbol="AppName"/>
 <entry field="true" id="20" symbol="refreshRate"/>
-<entry id="42" method="true" symbol="dummy"/>
+<entry id="44" method="true" symbol="dummy"/>
 <entry id="9" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8389594" symbol="headers"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
@@ -223,7 +240,7 @@
 <entry id="8389345" symbol="rezId"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="3" module="true" symbol="globals/Rez"/>
-<entry field="true" id="45" symbol="id_monkey"/>
+<entry field="true" id="48" symbol="id_monkey"/>
 <entry field="true" id="41" symbol="logo"/>
 <entry field="true" id="21" symbol="forceRefreshFlag"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -231,9 +248,10 @@
 <entry field="true" id="8389064" symbol="locX"/>
 <entry field="true" id="40" symbol="Volume"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-<entry id="44" module="true" symbol="Menus"/>
+<entry id="46" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="43" method="true" symbol="random"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="24" method="true" symbol="splitCSVStringToArray"/>
@@ -246,7 +264,8 @@
 <entry id="14" module="true" symbol="StockData"/>
 <entry field="true" id="37" symbol="Change"/>
 <entry id="8389844" symbol="responseType"/>
-<entry id="50" method="true" symbol="setSelected"/>
+<entry id="53" method="true" symbol="setSelected"/>
+<entry field="true" id="47" symbol="VB_Stubbie"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="23" method="true" symbol="parseJSONData"/>
 <entry id="8389619" method="true" symbol="onSelect"/>
@@ -254,13 +273,13 @@
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="28" method="true" symbol="restoreCachedData"/>
 <entry id="15" object="true" symbol="StockRecord"/>
-<entry field="true" id="51" symbol="notify"/>
+<entry field="true" id="54" symbol="notify"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="35" symbol="Close"/>
 <entry id="27" method="true" symbol="isDataStale"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry field="true" id="49" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
@@ -277,7 +296,7 @@
 <entry field="true" id="8389115" symbol="mMessage"/>
 <entry id="29" method="true" symbol="setDataFromWebRequest"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
-<entry id="43" module="true" symbol="Layouts"/>
+<entry id="45" module="true" symbol="Layouts"/>
 <entry id="8388781" method="true" symbol="hashCode"/>
 <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8391457" method="true" symbol="getGlanceView"/>
@@ -289,24 +308,34 @@
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268437881" name="dc" stackId="1" startPc="268437821"/>
-<entry endPc="268438134" name="vbEarnt" stackId="4" startPc="268437891"/>
-<entry endPc="268438134" name="info" stackId="2" startPc="268437891"/>
-<entry endPc="268438134" name="calories" stackId="3" startPc="268437891"/>
-<entry arg="true" endPc="268438135" name="dc" stackId="1" startPc="268437887"/>
-<entry arg="true" endPc="268438182" name="handler" stackId="1" startPc="268438146"/>
-<entry endPc="268438316" name="menu" stackId="1" startPc="268438200"/>
-<entry arg="true" endPc="268438322" name="keyEvent" stackId="1" startPc="268438318"/>
-<entry arg="true" endPc="268438366" name="isTitleSelected" stackId="1" startPc="268438352"/>
-<entry endPc="268438741" name="bitmapX" stackId="6" startPc="268438371"/>
-<entry endPc="268438741" name="appIcon" stackId="3" startPc="268438371"/>
-<entry endPc="268438741" name="labelY" stackId="9" startPc="268438371"/>
-<entry endPc="268438741" name="labelWidth" stackId="5" startPc="268438371"/>
-<entry endPc="268438741" name="spacing" stackId="2" startPc="268438371"/>
-<entry endPc="268438741" name="labelX" stackId="8" startPc="268438371"/>
-<entry endPc="268438741" name="bitmapWidth" stackId="4" startPc="268438371"/>
-<entry endPc="268438741" name="bkColor" stackId="10" startPc="268438371"/>
-<entry endPc="268438741" name="bitmapY" stackId="7" startPc="268438371"/>
-<entry arg="true" endPc="268438742" name="dc" stackId="1" startPc="268438367"/>
+<entry endPc="268438269" name="x" stackId="11" startPc="268438109"/>
+<entry endPc="268438269" name="y" stackId="12" startPc="268438109"/>
+<entry endPc="268438282" name="i" stackId="10" startPc="268438109"/>
+<entry endPc="268438409" name="temp" stackId="9" startPc="268437891"/>
+<entry endPc="268438409" name="appIcon" stackId="6" startPc="268437891"/>
+<entry endPc="268438409" name="bitmapWidth" stackId="7" startPc="268437891"/>
+<entry endPc="268438409" name="bitmapHeight" stackId="8" startPc="268437891"/>
+<entry endPc="268438409" name="vbEarnt" stackId="4" startPc="268437891"/>
+<entry endPc="268438409" name="info" stackId="2" startPc="268437891"/>
+<entry endPc="268438409" name="spacing" stackId="5" startPc="268437891"/>
+<entry endPc="268438409" name="calories" stackId="3" startPc="268437891"/>
+<entry arg="true" endPc="268438410" name="dc" stackId="1" startPc="268437887"/>
+<entry arg="true" endPc="268438439" name="m" stackId="2" startPc="268438411"/>
+<entry arg="true" endPc="268438439" name="n" stackId="1" startPc="268438411"/>
+<entry arg="true" endPc="268438486" name="handler" stackId="1" startPc="268438450"/>
+<entry endPc="268438620" name="menu" stackId="1" startPc="268438504"/>
+<entry arg="true" endPc="268438626" name="keyEvent" stackId="1" startPc="268438622"/>
+<entry arg="true" endPc="268438670" name="isTitleSelected" stackId="1" startPc="268438656"/>
+<entry endPc="268439045" name="bitmapX" stackId="6" startPc="268438675"/>
+<entry endPc="268439045" name="appIcon" stackId="3" startPc="268438675"/>
+<entry endPc="268439045" name="labelY" stackId="9" startPc="268438675"/>
+<entry endPc="268439045" name="labelWidth" stackId="5" startPc="268438675"/>
+<entry endPc="268439045" name="spacing" stackId="2" startPc="268438675"/>
+<entry endPc="268439045" name="labelX" stackId="8" startPc="268438675"/>
+<entry endPc="268439045" name="bitmapWidth" stackId="4" startPc="268438675"/>
+<entry endPc="268439045" name="bkColor" stackId="10" startPc="268438675"/>
+<entry endPc="268439045" name="bitmapY" stackId="7" startPc="268438675"/>
+<entry arg="true" endPc="268439046" name="dc" stackId="1" startPc="268438671"/>
 <entry arg="true" endPc="268435488" name="responseCode" stackId="1" startPc="268435484"/>
 <entry arg="true" endPc="268435488" name="data" stackId="2" startPc="268435484"/>
 <entry endPc="268435700" name="message" stackId="2" startPc="268435493"/>
@@ -361,10 +390,11 @@
 <entry arg="true" endPc="268437529" name="change" stackId="4" startPc="268437455"/>
 <entry arg="true" endPc="268437571" name="state" stackId="1" startPc="268437567"/>
 <entry arg="true" endPc="268437576" name="state" stackId="1" startPc="268437572"/>
-<entry endPc="268438971" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268438784"/>
-<entry arg="true" endPc="268438972" name="dc" stackId="1" startPc="268438772"/>
+<entry endPc="268439275" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268439088"/>
+<entry arg="true" endPc="268439276" name="dc" stackId="1" startPc="268439076"/>
 </localVars>
 <annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="VB_Stubbie"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
@@ -376,15 +406,15 @@
 <dataEntry label="globals/VB_GlanceView" offset="444" parentId="globals" symbolId="VB_GlanceView" type="class"/>
 <dataEntry label="globals/StockRecord" offset="515" parentId="globals" symbolId="StockRecord" type="class"/>
 <dataEntry label="globals/VB_WidgetView" offset="1783" parentId="globals" symbolId="VB_WidgetView" type="class"/>
-<dataEntry label="globals/Rez" offset="1886" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="1965" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="2012" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="2043" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="2074" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="2113" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="2144" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/DrawableMenuTitle" offset="2183" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
-<dataEntry label="globals/VB_OverviewDelegate" offset="2254" parentId="globals" symbolId="VB_OverviewDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="1902" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1981" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="2036" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="2067" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="2098" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="2137" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="2168" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/DrawableMenuTitle" offset="2207" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry label="globals/VB_OverviewDelegate" offset="2278" parentId="globals" symbolId="VB_OverviewDelegate" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268437820" name="initialize" parent="VB_WidgetView" startPc="268437798">
@@ -397,51 +427,56 @@
 <functionEntry accessMode="public" endPc="268437886" name="onShow" parent="VB_WidgetView" startPc="268437882">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438135" name="onUpdate" parent="VB_WidgetView" startPc="268437887">
+<functionEntry accessMode="public" endPc="268438410" name="onUpdate" parent="VB_WidgetView" startPc="268437887">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438140" name="onHide" parent="VB_WidgetView" startPc="268438136">
+<functionEntry accessMode="public" endPc="268438439" name="random" parent="VB_WidgetView" startPc="268438411">
+<param id="n"/>
+<param id="m"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438145" name="dummy" parent="VB_WidgetView" startPc="268438141">
+<functionEntry accessMode="public" endPc="268438444" name="onHide" parent="VB_WidgetView" startPc="268438440">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438991" name="&lt;init&gt;" parent="VB_WidgetView" startPc="268438973">
+<functionEntry accessMode="public" endPc="268438449" name="dummy" parent="VB_WidgetView" startPc="268438445">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438182" name="initialize" parent="VB_OverviewDelegate" startPc="268438146">
+<functionEntry accessMode="protected" endPc="268439295" name="&lt;init&gt;" parent="VB_WidgetView" startPc="268439277">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438486" name="initialize" parent="VB_OverviewDelegate" startPc="268438450">
 <param id="handler"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438187" name="onShow" parent="VB_OverviewDelegate" startPc="268438183">
+<functionEntry accessMode="public" endPc="268438491" name="onShow" parent="VB_OverviewDelegate" startPc="268438487">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438195" name="onMenu" parent="VB_OverviewDelegate" startPc="268438188">
+<functionEntry accessMode="public" endPc="268438499" name="onMenu" parent="VB_OverviewDelegate" startPc="268438492">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438317" name="onSelect" parent="VB_OverviewDelegate" startPc="268438196">
+<functionEntry accessMode="public" endPc="268438621" name="onSelect" parent="VB_OverviewDelegate" startPc="268438500">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438322" name="onKey" parent="VB_OverviewDelegate" startPc="268438318">
+<functionEntry accessMode="public" endPc="268438626" name="onKey" parent="VB_OverviewDelegate" startPc="268438622">
 <param id="keyEvent"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439059" name="&lt;init&gt;" parent="VB_OverviewDelegate" startPc="268439041">
+<functionEntry accessMode="protected" endPc="268439363" name="&lt;init&gt;" parent="VB_OverviewDelegate" startPc="268439345">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438351" name="initialize" parent="DrawableMenuTitle" startPc="268438323">
+<functionEntry accessMode="public" endPc="268438655" name="initialize" parent="DrawableMenuTitle" startPc="268438627">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438366" name="setSelected" parent="DrawableMenuTitle" startPc="268438352">
+<functionEntry accessMode="public" endPc="268438670" name="setSelected" parent="DrawableMenuTitle" startPc="268438656">
 <param id="isTitleSelected"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438742" name="draw" parent="DrawableMenuTitle" startPc="268438367">
+<functionEntry accessMode="public" endPc="268439046" name="draw" parent="DrawableMenuTitle" startPc="268438671">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439040" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268439022">
+<functionEntry accessMode="protected" endPc="268439344" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268439326">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="VB_GlanceView" startPc="268435456">
@@ -535,32 +570,32 @@
 <functionEntry accessMode="protected" endPc="268437777" name="&lt;init&gt;" parent="VB_WidgetApp" startPc="268437759">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438771" name="getApp" startPc="268438743">
+<functionEntry accessMode="public" endPc="268439075" name="getApp" startPc="268439047">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439016" name="&lt;init&gt;" parent="Drawables" startPc="268439016">
+<functionEntry accessMode="protected" endPc="268439320" name="&lt;init&gt;" parent="Drawables" startPc="268439320">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439018" name="&lt;init&gt;" parent="Fonts" startPc="268439018">
+<functionEntry accessMode="protected" endPc="268439322" name="&lt;init&gt;" parent="Fonts" startPc="268439322">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439020" name="&lt;init&gt;" parent="JsonData" startPc="268439020">
+<functionEntry accessMode="protected" endPc="268439324" name="&lt;init&gt;" parent="JsonData" startPc="268439324">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438972" name="MainLayout" parent="Layouts" startPc="268438772">
+<functionEntry accessMode="public" endPc="268439276" name="MainLayout" parent="Layouts" startPc="268439076">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439019" name="&lt;init&gt;" parent="Layouts" startPc="268439019">
+<functionEntry accessMode="protected" endPc="268439323" name="&lt;init&gt;" parent="Layouts" startPc="268439323">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439017" name="&lt;init&gt;" parent="Menus" startPc="268439017">
+<functionEntry accessMode="protected" endPc="268439321" name="&lt;init&gt;" parent="Menus" startPc="268439321">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439021" name="&lt;init&gt;" parent="Strings" startPc="268439021">
+<functionEntry accessMode="protected" endPc="268439325" name="&lt;init&gt;" parent="Strings" startPc="268439325">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268439015" name="&lt;init&gt;" parent="Rez" startPc="268438992">
+<functionEntry accessMode="protected" endPc="268439319" name="&lt;init&gt;" parent="Rez" startPc="268439296">
 <documentation/>
 </functionEntry>
 </functions>
